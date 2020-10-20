@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteroidsAPI", "AsteroidsAPI\AsteroidsAPI.csproj", "{FBBCAF32-4362-4E6E-A213-D5CF7F8A6530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBBCAF32-4362-4E6E-A213-D5CF7F8A6530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBCAF32-4362-4E6E-A213-D5CF7F8A6530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBCAF32-4362-4E6E-A213-D5CF7F8A6530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBCAF32-4362-4E6E-A213-D5CF7F8A6530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0B8747D-BEC4-4C52-8FEA-885C00AD89CC}
+	EndGlobalSection
+EndGlobal
